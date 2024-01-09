@@ -1,0 +1,27 @@
+  *{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+  img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+  body{
+    display: block;
+    background-color: grey;
+}
+
+  h1{
+    text-align: center;
+    background-color: aqua;
+}
+  h2{
+    text-align: center;
+    background-color: aqua;
+  }
+  table, td,th{
+    border:1px solid black;  
+}
+
